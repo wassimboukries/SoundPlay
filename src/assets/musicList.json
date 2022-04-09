@@ -1,0 +1,22 @@
+[{
+        "name": "Rap God",
+        "artist": "Eminem",
+        "date_release": "2013-11-27",
+        "audio_link": "https://www.youtube.com/watch?v=XbGs_qK2PQA",
+        "duration": "06:09"
+    },
+    {
+        "name": "Bad Romance",
+        "artist": "Lady Gaga",
+        "date_release": "2009-11-24",
+        "audio_link": "https://www.youtube.com/watch?v=qrO4YZeyl0I",
+        "duration": "05:08"
+    },
+    {
+        "name": "Get Lucky",
+        "artist": "Daft Punk",
+        "date_release": "2013-04-13",
+        "audio_link": "https://www.youtube.com/watch?v=5NV6Rdv1a3I",
+        "duration": "04:08"
+    }
+]
